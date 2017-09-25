@@ -1,0 +1,8 @@
+fruits = ['banana', 'apple',  'mango']
+for index in range(len(fruits)):
+    print 'Current fruit :', fruits[index]
+    print len(fruits)
+    print range(len(fruits))
+    print index
+
+print "Good bye!"
